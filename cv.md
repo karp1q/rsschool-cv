@@ -11,7 +11,7 @@
 
 ### About Myself:
 
-My name Maksim, i'm 26 years old. Started learning frontend a couple of months ago. 
+My name is Maksim, i'm 26 years old. Started learning frontend a couple of months ago. 
 
 ---
 
